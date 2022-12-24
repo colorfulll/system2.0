@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1584205420 source:d:\codeblocks\trail\fltktest\main.cpp
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Box.H>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_export.h
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_types.h
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1668856928 d:\fltk-1.3.8-sdk\include\fl\abi-version.h
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_box.h
+	"Fl_Widget.H"
+

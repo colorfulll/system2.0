@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1671603275 source:d:\codeblocks\trail\main.cpp
+	"main.h"
+	<iostream>
+	"help.h"
+
+1671544740 d:\codeblocks\trail\main.h
+	<FL/Fl.H>
+	<string>
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Return_Button.H>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_export.h
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_types.h
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1668856928 d:\fltk-1.3.8-sdk\include\fl\abi-version.h
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_return_button.h
+	"Fl_Button.H"
+
+1671603029 source:d:\codeblocks\trail\help.cpp
+	"help.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"main.h"
+
+1671603269 d:\codeblocks\trail\help.h
+	<string>
+
+1671877581 source:d:\codeblocks\system_2.0\help.cpp
+	"help.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+	"main.h"
+
+1671876312 d:\codeblocks\system_2.0\help.h
+	<string>
+
+1671882758 d:\codeblocks\system_2.0\main.h
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Output.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Return_Button.H>
+	<FL/Fl_Double_Window.H>
+	<string>
+
+1637431834 d:\fltk-1.3.8-sdk\include\fl\fl_output.h
+	"Fl_Input.H"
+
+1671883539 source:d:\codeblocks\system_2.0\main.cpp
+	"main.h"
+	<iostream>
+	"help.h"
+
